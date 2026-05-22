@@ -8,10 +8,9 @@ This project demonstrates an end-to-end Machine Learning workflow including data
 
 # 🚀 Live Demo
 
-👉 Add your deployed app link here
 
 ```bash
-https://your-app-link.streamlit.app
+https://loandefaultpredictionapp-qhiuk3kf3ranajtzas565b.streamlit.app/
 ```
 
 ---
