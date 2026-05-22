@@ -10,7 +10,7 @@ This project demonstrates an end-to-end Machine Learning workflow including data
 
 
 ```bash
-https://loandefaultpredictionapp-qhiuk3kf3ranajtzas565b.streamlit.app/
+https://titanicsurvivalpredictionapp-qvdfwr8m4ptjtaal2dysba.streamlit.app/
 ```
 
 ---
